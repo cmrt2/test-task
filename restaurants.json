@@ -1,0 +1,110 @@
+[
+  {
+    "id": 0,
+    "name": "Макдоналдс",
+    "location": "Газетный",
+    "kitchens": ["Бургеры"],
+    "averagePrice": 2,
+    "timeOfDelivery": [25, 35],
+    "images": {
+      "restaurant": "https://raw.githubusercontent.com/cmrt2/test-task/master/images/McDonalds.jpg",
+      "restaurant2x": "https://raw.githubusercontent.com/cmrt2/test-task/master/images/McDonalds2x.jpg"
+    }
+  },
+  {
+    "id": 1,
+    "name": "DimSum & Co",
+    "location": "ЦДМ",
+    "kitchens": ["Японская", "Китайская", "Азиатская"],
+    "averagePrice": 1,
+    "timeOfDelivery": [40, 50],
+    "images": {
+      "restaurant": "https://raw.githubusercontent.com/cmrt2/test-task/master/images/DimSumCo.jpg",
+      "restaurant2x": "https://raw.githubusercontent.com/cmrt2/test-task/master/images/DimSumCo2x.jpg"
+    }
+  },
+  {
+    "id": 2,
+    "name": "ДвижОК",
+    "location": "Манежная",
+    "kitchens": ["Американская", "Европейская"],
+    "averagePrice": 1,
+    "timeOfDelivery": [35, 45],
+    "images": {
+      "restaurant": "https://raw.githubusercontent.com/cmrt2/test-task/master/images/DvijOK.jpg",
+      "restaurant2x": "https://raw.githubusercontent.com/cmrt2/test-task/master/images/DvijOK2x.jpg"
+    }
+  },
+  {
+    "id": 3,
+    "name": "НЯ",
+    "location": "NHA",
+    "kitchens": ["Вьетнамская"],
+    "averagePrice": 2,
+    "timeOfDelivery": [30, 40],
+    "images": {
+      "restaurant": "https://raw.githubusercontent.com/cmrt2/test-task/master/images/Nya.jpg",
+      "restaurant2x": "https://raw.githubusercontent.com/cmrt2/test-task/master/images/Nya2x.jpg"
+    }
+  },
+  {
+    "id": 4,
+    "name": "Точка Дзы",
+    "location": "Цветной",
+    "kitchens": ["Вьетнамская"],
+    "averagePrice": 2,
+    "timeOfDelivery": [40, 50],
+    "images": {
+      "restaurant": "https://raw.githubusercontent.com/cmrt2/test-task/master/images/TochkaDzy.jpg",
+      "restaurant2x": "https://raw.githubusercontent.com/cmrt2/test-task/master/images/TochkaDzy2x.jpg"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Cinnabon",
+    "location": "Цветной",
+    "kitchens": ["Выпечка", "Десерты", "Капкейки"],
+    "averagePrice": 1,
+    "timeOfDelivery": [25, 35],
+    "images": {
+      "restaurant": "https://raw.githubusercontent.com/cmrt2/test-task/master/images/Cinnabon.jpg",
+      "restaurant2x": "https://raw.githubusercontent.com/cmrt2/test-task/master/images/Cinnabon2x.jpg"
+    }
+  },
+  {
+    "id": 6,
+    "name": "PIZZELOVE",
+    "location": "Газетный",
+    "kitchens": ["Пицца"],
+    "averagePrice": 2,
+    "timeOfDelivery": [15, 25],
+    "images": {
+      "restaurant": "https://raw.githubusercontent.com/cmrt2/test-task/master/images/Pizzelove.jpg",
+      "restaurant2x": "https://raw.githubusercontent.com/cmrt2/test-task/master/images/Pizzelove2x.jpg"
+    }
+  },
+  {
+    "id": 7,
+    "name": "Zю кафе",
+    "location": "Тверская",
+    "kitchens": ["Японская"],
+    "averagePrice": 2,
+    "timeOfDelivery": [25, 35],
+    "images": {
+      "restaurant": "https://raw.githubusercontent.com/cmrt2/test-task/master/images/Zu.jpg",
+      "restaurant2x": "https://raw.githubusercontent.com/cmrt2/test-task/master/images/Zu2x.jpg"
+    }
+  },
+  {
+    "id": 8,
+    "name": "Bar BQ Cafe",
+    "location": "Манежная",
+    "kitchens": ["Европейская"],
+    "averagePrice": 3,
+    "timeOfDelivery": [30, 40],
+    "images": {
+      "normal": "https://raw.githubusercontent.com/cmrt2/test-task/master/images/BarBQ.jpg",
+      "retina": "https://raw.githubusercontent.com/cmrt2/test-task/master/images/BarBQ2x.jpg"
+    }
+  }
+]

@@ -1,0 +1,70 @@
+{
+  "id": 0,
+  "name": "Трактир «Пушкин»",
+  "location": "Газетный",
+  "kitchens": ["Европейская"],
+  "averagePrice": 3,
+  "timeOfDelivery": [40, 50],
+  "images": {
+    "wideNormal": "https://raw.githubusercontent.com/cmrt2/test-task/master/images/banner.jpg",
+    "wideRetina": "https://raw.githubusercontent.com/cmrt2/test-task/master/images/banner2x.jpg",
+    "mobileNormal": "https://raw.githubusercontent.com/cmrt2/test-task/master/images/banner_min.jpg",
+    "mobileRetina": "https://raw.githubusercontent.com/cmrt2/test-task/master/images/banner_min2x.jpg"
+  },
+  "dishes": [
+    {
+      "name": "Сельдь на бородинском хлебе",
+      "description": "С яйцом и огурцом",
+      "price": 240,
+      "photo": {
+        "normal": "https://raw.githubusercontent.com/cmrt2/test-task/master/images/herring.jpg",
+        "retina": "https://raw.githubusercontent.com/cmrt2/test-task/master/images/herring2x.jpg"
+      }
+    },
+    {
+      "name": "Соленья ассорти",
+      "description": "",
+      "price": 320,
+      "photo": {
+        "normal": "https://raw.githubusercontent.com/cmrt2/test-task/master/images/pickles.jpg",
+        "retina": "https://raw.githubusercontent.com/cmrt2/test-task/master/images/pickles2x.jpg"
+      }
+    },
+    {
+      "name": "Грибы маринованные",
+      "description": "",
+      "price": 300,
+      "photo": {
+        "normal": "https://raw.githubusercontent.com/cmrt2/test-task/master/images/mushrooms.jpg",
+        "retina": "https://raw.githubusercontent.com/cmrt2/test-task/master/images/mushrooms2x.jpg"
+      }
+    },
+    {
+      "name": "Сало домашнее с горчицей",
+      "description": "",
+      "price": 320,
+      "photo": {
+        "normal": "https://raw.githubusercontent.com/cmrt2/test-task/master/images/lard.jpg",
+        "retina": "https://raw.githubusercontent.com/cmrt2/test-task/master/images/lard2x.jpg"
+      }
+    },
+    {
+      "name": "Малосольная семга",
+      "description": "",
+      "price": 390,
+      "photo": {
+        "normal": "https://raw.githubusercontent.com/cmrt2/test-task/master/images/salmon.jpg",
+        "retina": "https://raw.githubusercontent.com/cmrt2/test-task/master/images/salmon2x.jpg"
+      }
+    },
+    {
+      "name": "Язык говяжий с хреном",
+      "description": "",
+      "price": 350,
+      "photo": {
+        "normal": "https://raw.githubusercontent.com/cmrt2/test-task/master/images/beeftongue.jpg",
+        "retina": "https://raw.githubusercontent.com/cmrt2/test-task/master/images/beeftongue2x.jpg"
+      }
+    }
+  ]
+}
