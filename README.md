@@ -1,4 +1,5 @@
 #Тестовое задания frontend (цмрт)
+
 Необходимо сверстать макет, используя любые инструменты (макет находится в папке design).
 ![](https://pp.userapi.com/c850636/v850636240/17f116/3E9LXmrU2WU.jpg)
 
@@ -21,7 +22,8 @@ https://raw.githubusercontent.com/cmrt2/test-task/master/restaurants.json
 https://raw.githubusercontent.com/cmrt2/test-task/master/restaurant.json
 ```
 
-- написать скрипт для pop-up, содержащего текст акции и таймер обратного отсчёта до конца акции, который появляется только в Субботу и/или Воскресенье.
+- написать скрипт для pop-up, который состоит из текста акции и таймер обратного отсчёта до конца акции. Pop-up появляется только в Субботу и/или Воскресенье.
   ![](https://pp.userapi.com/c850636/v850636240/17f13f/7i0ks9gPx5k.jpg)
   > при нажатии на крестик pop-up исчезает и может быть вызван заново по нажатию кнопки "с подарком" в левом нижнем углу экрана
-  > ![](https://pp.userapi.com/c850636/v850636426/181286/B2IjoSkkKhM.jpg)
+
+![](https://pp.userapi.com/c850636/v850636426/181286/B2IjoSkkKhM.jpg)
