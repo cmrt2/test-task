@@ -7,8 +7,8 @@
     "averagePrice": 2,
     "timeOfDelivery": [25, 35],
     "images": {
-      "restaurant": "https://raw.githubusercontent.com/cmrt2/test-task/master/images/McDonalds.jpg",
-      "restaurant2x": "https://raw.githubusercontent.com/cmrt2/test-task/master/images/McDonalds2x.jpg"
+      "normal": "https://raw.githubusercontent.com/cmrt2/test-task/master/images/McDonalds.jpg",
+      "retina": "https://raw.githubusercontent.com/cmrt2/test-task/master/images/McDonalds2x.jpg"
     }
   },
   {
@@ -19,8 +19,8 @@
     "averagePrice": 1,
     "timeOfDelivery": [40, 50],
     "images": {
-      "restaurant": "https://raw.githubusercontent.com/cmrt2/test-task/master/images/DimSumCo.jpg",
-      "restaurant2x": "https://raw.githubusercontent.com/cmrt2/test-task/master/images/DimSumCo2x.jpg"
+      "normal": "https://raw.githubusercontent.com/cmrt2/test-task/master/images/DimSumCo.jpg",
+      "retina": "https://raw.githubusercontent.com/cmrt2/test-task/master/images/DimSumCo2x.jpg"
     }
   },
   {
@@ -31,8 +31,8 @@
     "averagePrice": 1,
     "timeOfDelivery": [35, 45],
     "images": {
-      "restaurant": "https://raw.githubusercontent.com/cmrt2/test-task/master/images/DvijOK.jpg",
-      "restaurant2x": "https://raw.githubusercontent.com/cmrt2/test-task/master/images/DvijOK2x.jpg"
+      "normal": "https://raw.githubusercontent.com/cmrt2/test-task/master/images/DvijOK.jpg",
+      "retina": "https://raw.githubusercontent.com/cmrt2/test-task/master/images/DvijOK2x.jpg"
     }
   },
   {
@@ -43,8 +43,8 @@
     "averagePrice": 2,
     "timeOfDelivery": [30, 40],
     "images": {
-      "restaurant": "https://raw.githubusercontent.com/cmrt2/test-task/master/images/Nya.jpg",
-      "restaurant2x": "https://raw.githubusercontent.com/cmrt2/test-task/master/images/Nya2x.jpg"
+      "normal": "https://raw.githubusercontent.com/cmrt2/test-task/master/images/Nya.jpg",
+      "retina": "https://raw.githubusercontent.com/cmrt2/test-task/master/images/Nya2x.jpg"
     }
   },
   {
@@ -55,8 +55,8 @@
     "averagePrice": 2,
     "timeOfDelivery": [40, 50],
     "images": {
-      "restaurant": "https://raw.githubusercontent.com/cmrt2/test-task/master/images/TochkaDzy.jpg",
-      "restaurant2x": "https://raw.githubusercontent.com/cmrt2/test-task/master/images/TochkaDzy2x.jpg"
+      "normal": "https://raw.githubusercontent.com/cmrt2/test-task/master/images/TochkaDzy.jpg",
+      "retina": "https://raw.githubusercontent.com/cmrt2/test-task/master/images/TochkaDzy2x.jpg"
     }
   },
   {
@@ -67,8 +67,8 @@
     "averagePrice": 1,
     "timeOfDelivery": [25, 35],
     "images": {
-      "restaurant": "https://raw.githubusercontent.com/cmrt2/test-task/master/images/Cinnabon.jpg",
-      "restaurant2x": "https://raw.githubusercontent.com/cmrt2/test-task/master/images/Cinnabon2x.jpg"
+      "normal": "https://raw.githubusercontent.com/cmrt2/test-task/master/images/Cinnabon.jpg",
+      "retina": "https://raw.githubusercontent.com/cmrt2/test-task/master/images/Cinnabon2x.jpg"
     }
   },
   {
@@ -79,8 +79,8 @@
     "averagePrice": 2,
     "timeOfDelivery": [15, 25],
     "images": {
-      "restaurant": "https://raw.githubusercontent.com/cmrt2/test-task/master/images/Pizzelove.jpg",
-      "restaurant2x": "https://raw.githubusercontent.com/cmrt2/test-task/master/images/Pizzelove2x.jpg"
+      "normal": "https://raw.githubusercontent.com/cmrt2/test-task/master/images/Pizzelove.jpg",
+      "retina": "https://raw.githubusercontent.com/cmrt2/test-task/master/images/Pizzelove2x.jpg"
     }
   },
   {
@@ -91,8 +91,8 @@
     "averagePrice": 2,
     "timeOfDelivery": [25, 35],
     "images": {
-      "restaurant": "https://raw.githubusercontent.com/cmrt2/test-task/master/images/Zu.jpg",
-      "restaurant2x": "https://raw.githubusercontent.com/cmrt2/test-task/master/images/Zu2x.jpg"
+      "normal": "https://raw.githubusercontent.com/cmrt2/test-task/master/images/Zu.jpg",
+      "retina": "https://raw.githubusercontent.com/cmrt2/test-task/master/images/Zu2x.jpg"
     }
   },
   {
